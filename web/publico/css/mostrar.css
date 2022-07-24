@@ -1,0 +1,35 @@
+/* 
+    Created on : 16/06/2022, 04:59:19 PM
+    Author     : EliasSan
+*/
+
+*
+{
+  margin:  0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body
+{
+  background-color: #d4a62a;
+}
+h1
+{
+ color:#fff;    
+ font-weight: bolder;
+ 
+}
+#new
+{
+  margin: 1rem 19.5rem 1rem;
+  font-weight: bold
+  
+}
+thead th
+{
+ text-align: center;
+}
+tbody td
+{
+ text-align: center;    
+}
